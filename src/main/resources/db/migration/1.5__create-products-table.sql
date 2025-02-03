@@ -3,7 +3,6 @@ CREATE TABLE IF NOT EXISTS products(
     product VARCHAR(255) NOT NULL,
     'description' VARCHAR(255) NOT NULL,
     category_id BIGINT,
-    unit_of_measure VARCHAR(10),
     sku VARCHAR(255),
     minimum_stock INT,
     alert_stock INT,
