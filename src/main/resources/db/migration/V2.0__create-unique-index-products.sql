@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX ui_products ON products(product, user_id);

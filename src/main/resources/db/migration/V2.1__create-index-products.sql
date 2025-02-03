@@ -1,0 +1,1 @@
+CREATE INDEX index_products ON products(product_id);

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX ui_suppliers ON suppliers(supplier_name, user_id);

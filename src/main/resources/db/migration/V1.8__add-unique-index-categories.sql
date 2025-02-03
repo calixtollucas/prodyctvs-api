@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX ui_categories ON categories(category, user_id);

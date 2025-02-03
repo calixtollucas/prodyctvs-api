@@ -1,7 +1,6 @@
 spring:
   application:
     name: prodyctvs-api
-
   datasource:
     url: jdbc:mysql://db:3306/prodyctvs_db?useSSL=false&allowPublicKeyRetrieval=true
     username: root
